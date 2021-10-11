@@ -12,13 +12,13 @@ https://komarev.com/ghpvc/?username=sumitupgrad&label=Profile+views&color=129e00
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sumitupgrad/sumitupgrad](https://github.com/sumitupgrad/sumitupgrad)
+- 👨‍💻 All of my projects are available at [www.github.com/sumitupgrad](www.github.com/sumitupgrad)
 
-- 📝 I regularly write articles on [https://github.com/sumitupgrad/sumitupgrad](https://github.com/sumitupgrad/sumitupgrad)
+- 📝 I regularly write articles on [www.github.com/sumitupgrad](www.github.com/sumitupgrad)
 
 - 💬 Ask me about **4+ year of experienced in telecom sector in operations and maintenance i have as a team lead in Tata communications company ans also work in Bharti Airtel,currently I am Doing in PG programme in Data Science from Up-Grad Platform to develop in carrier in data science field Intend to build a career in challenging & dynamic environment where I can use my technical skills & knowledge, in this innovative & competitive telecom field and gain expertise in diversified role of an individual as well as a team player contributing to the company as well as individual development. “Because company growth is projected to our growth”**
 
-- 📫 How to reach me **sumit.singh34@yahoo.com,www.linkedin.com/in/sumit-kumar-040788215**
+- 📫 How to reach me **sumit.singh34@yahoo.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/sumit-kumar-040788215](www.linkedin.com/in/sumit-kumar-040788215)
 
@@ -40,4 +40,3 @@ https://komarev.com/ghpvc/?username=sumitupgrad&label=Profile+views&color=129e00
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitupgrad&show_icons=true&locale=en" alt="sumitupgrad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitupgrad&" alt="sumitupgrad" /></p>
-
