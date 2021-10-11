@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=sumitupgrad&label=Profile+views&color=129e00&style=plastic
+
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate frontend Data Analyst from India</h3>
 
