@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [www.github.com/sumitupgrad](www.github.com/sumitupgrad)
 
-- 💬 Ask me about **4+ year of experienced in telecom sector in operations and maintenance i have as a team lead in Tata communications company ans also work in Bharti Airtel,currently I am Doing in PG programme in Data Science from Up-Grad Platform to develop in carrier in data science field Intend to build a career in challenging & dynamic environment where I can use my technical skills & knowledge, in this innovative & competitive telecom field and gain expertise in diversified role of an individual as well as a team player contributing to the company as well as individual development. “Because company growth is projected to our growth”**
+- 💬 Ask me about **MYSQL,PYTHON,DATA VISULISATION,DATA MANIPULATION,EXCEL**
 
 - 📫 How to reach me **sumit.singh34@yahoo.com**
 
