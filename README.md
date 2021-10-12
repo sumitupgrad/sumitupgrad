@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **upGrad Assigment**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science From IIIT-Bangalore UpGrad**
 
 - 👨‍💻 All of my projects are available at [www.github.com/sumitupgrad](www.github.com/sumitupgrad)
 
-- 📝 I regularly write articles on [www.github.com/sumitupgrad](www.github.com/sumitupgrad)
+- 📝 I regularly write articles on [----------------------------------](----------------------------------)
 
-- 💬 Ask me about **MYSQL,PYTHON,DATA VISULISATION,DATA MANIPULATION,EXCEL**
+- 💬 Ask me about **MYSQL,Python,Data Visulisations,Data Manipulation,Excel,Hypothesis Testing**
 
 - 📫 How to reach me **sumit.singh34@yahoo.com**
 
