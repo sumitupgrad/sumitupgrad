@@ -9,7 +9,11 @@
 
 - 🔭 I’m currently working on **upGrad Assigment**
 
-- 🌱 I’m currently learning **Data Science From IIIT-Bangalore UpGrad**
+- 🌱 I’m currently learning **PG In Data Science From IIIT-Bangalore UpGrad**
+
+- About Me **4+ years of experienced in telecom sector in operations and maintenance i have as a team lead in Tata communications company ans also work in Bharti Airtel,currently I am Doing in PG programme in Data Science from Up-Grad Platform to develop in carrier in data science field Intend to build a career in challenging & dynamic environment where I can use my technical skills & knowledge, in this innovative & competitive telecom field and gain expertise in diversified role of an individual as well as a team player contributing to the company as well as individual development. “Because company growth is projected to our growth”**
+
+- Education **B.Tech-Electronis & Comm.Engineering**
 
 - 👨‍💻 All of my projects are available at [www.github.com/sumitupgrad](www.github.com/sumitupgrad)
 
