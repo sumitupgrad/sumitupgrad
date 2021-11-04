@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sumit.singh34@yahoo.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/sumit-kumar-040788215/](www.linkedin.com/in/sumit-kumar-040788215/)
+- 📄 Know about my experiences www.linkedin.com/in/sumit-kumar-040788215/
 
 - ⚡ Fun fact **I Think I am Loyal**
 
