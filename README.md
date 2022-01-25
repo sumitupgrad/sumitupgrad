@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A Passionate Frontend Data Analyst</h3>
+<h3 align="center">A passionate frontend Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitupgrad&label=Profile%20views&color=0e75b6&style=flat" alt="sumitupgrad" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PG In Data Science From IIIT-Bangalore UpGrad**
 
-- About Me **4+ years of experienced in telecom sector in operations and maintenance i have as a team lead in Tata communications company ans also work in Bharti Airtel,currently I am Doing in PG programme in Data Science from Up-Grad Platform to develop in carrier in data science field Intend to build a career in challenging & dynamic environment where I can use my technical skills & knowledge, in this innovative & competitive telecom field and gain expertise in diversified role of an individual as well as a team player contributing to the company as well as individual development. “Because company growth is projected to our growth”**
+- About Me **1.5 Years of Proven Experience as Data Analyst Experienced of Python, My SQL, MS Excel & Machine Learning, Knowledge of BI Tools Power BI**
 
 - Education **B.Tech-Electronis & Comm.Engineering**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sumit.singh34@yahoo.com**
 
-- 📄 Know about my experiences www.linkedin.com/in/sumit-kumar-040788215/
+- 📄 Know about my experiences [www.linkedin.com/in/sumit-kumar-040788215/](www.linkedin.com/in/sumit-kumar-040788215/)
 
 - ⚡ Fun fact **I Think I am Loyal**
 
@@ -36,7 +36,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitupgrad&show_icons=true&locale=en&layout=compact" alt="sumitupgrad" /></p>
 
